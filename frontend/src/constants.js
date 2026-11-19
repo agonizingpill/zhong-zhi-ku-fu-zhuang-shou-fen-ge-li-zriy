@@ -1,0 +1,1 @@
+export const ROLES={operator:'育种员',supervisor:'育种主管',viewer:'观察员'},REGEN_STATES={requested:'待领种',issued:'已领种',cancelled:'已取消',harvested:'已收获'},FLOWER_STATES={planned:'待分配',assigned:'隔离使用中',released:'已收获释放'},POLLEN_STATES={prepared:'待检查',pollinated:'授粉完成'};
